@@ -1,9 +1,9 @@
-import React from 'react'
-
-const Testmonials = () => {
-  return (
-    <div>Testmonials</div>
+import styles, { layout } from "../style";
+import { feedback } from "../constants";
+import FeedbackCard from "./FeedbackCard";
+const Testmonials = () => (
+    <section>
+      
+    </section>
   )
-}
-
 export default Testmonials
